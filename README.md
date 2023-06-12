@@ -7,11 +7,11 @@ When you first launch The App, you will be prompted to authenticate with an emai
 
 ## Search
 
-In the search view, you can search for books by title or author. The results will be displayed in a collection view, and you can mark the book as your'e favorite.
+In the search view, you can search for movies by title. The results will be displayed in a collection view, and you can mark the movie as your'e favorite.
 
 ## Favorites
 
-In the favorites view, you can view a list of all the books you have marked as favorites. You can also remove books from your favorites list by tapping on the trash icon.
+In the favorites view, you can view a list of all the movies you have marked as favorites. You can also remove movies from your favorites list by tapping on the trash icon.
 
 ## Requirements: 
 xcode, Swift, ios version 16.1 or higher
